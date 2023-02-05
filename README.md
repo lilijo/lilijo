@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilijo, aka Lili!
+- 👋 Hi, I’m @lilijo, aka Lili! 
 - 👀 I’m interested in web development and software engineering.
-- 🌱 I’m currently a Bachelor of Computer Science student at University of London.
+- 🌱 I’m currently a Bachelor of Computer Science student at Goldsmiths, University of London.
 - 📫 You can reach me at lilioswork@gmail.com
